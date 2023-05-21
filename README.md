@@ -3,7 +3,7 @@
 An analysis of Zomato, a popular food delivery platform, using SQL queries. The analysis involved working with a database containing tables for
 gold user signups, user information, sales, and product details.
 
-SQL queries used in the project include:
+-- SQL queries used in the project include:
 
 Counting the number of gold user signups. 
 Calculating the average price of products.   
